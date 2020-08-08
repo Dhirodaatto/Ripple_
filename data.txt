@@ -1,0 +1,503 @@
+Microsoft Windows [Version 10.0.19041.388]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git init
+Reinitialized existing Git repository in C:/Users/dhiro/OneDrive/Documents/Processing/MyApps/Ripple/.git/
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git remote add
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git remote add winx64 https://github.com/Dhirodaatto/Ripple.git
+fatal: remote winx64 already exists.
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>cd
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>dir /a
+ Volume in drive C is Windows
+ Volume Serial Number is E26B-B237
+
+ Directory of C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple
+
+25-07-2020  00:18    <DIR>          .
+25-07-2020  00:18    <DIR>          ..
+04-06-2020  20:28               285 Ripple.pde
+05-06-2020  13:11             1,458 RippleGenerator.pde
+19-07-2020  14:14    <DIR>          winx64
+19-07-2020  14:11    <DIR>          winx86
+               2 File(s)          1,743 bytes
+               4 Dir(s)  136,271,093,760 bytes free
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git init
+Initialized empty Git repository in C:/Users/dhiro/OneDrive/Documents/Processing/MyApps/Ripple/.git/
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git add .
+warning: LF will be replaced by CRLF in winx64/java/COPYRIGHT.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/README.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/THIRDPARTYLICENSEREADME-JAVAFX.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/THIRDPARTYLICENSEREADME.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/Welcome.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/bin/server/Xusage.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/accessibility.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/amd64/jvm.cfg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/calendars.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/content-types.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_de.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_es.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_fr.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_it.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_ja.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_ko.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_pt_BR.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_sv.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_zh_CN.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_zh_HK.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/deploy/messages_zh_TW.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/flavormap.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/fontconfig.properties.src.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/hijrah-config-umalqura.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/images/cursors/cursors.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/javafx.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/jfr/default.jfc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/jfr/profile.jfc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/jvm.hprof.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/logging.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/management/jmxremote.access.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/management/jmxremote.password.template.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/management/management.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/management/snmp.acl.template.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/net.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/psfont.properties.ja.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/psfontj2d.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/security/blacklist.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/security/blacklisted.certs.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/security/java.policy.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/security/javaws.policy.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/sound.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/lib/tzmappings.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/java/release.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx64/source/Ripple.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in winx86/source/Ripple.java.
+The file will have its original line endings in your working directory
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git remote
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git remote add winx64 https://github.com/Dhirodaatto/Ripple.git
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git remote -v
+winx64  https://github.com/Dhirodaatto/Ripple.git (fetch)
+winx64  https://github.com/Dhirodaatto/Ripple.git (push)
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push -u winx64
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream winx64 master
+
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push -u winx64 master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Dhirodaatto/Ripple.git'
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git add -all
+error: did you mean `--all` (with two dashes ?)
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git add --all
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push -u winx64 master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/Dhirodaatto/Ripple.git'
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git commit -m "initial master"
+[master (root-commit) 5b17bd1] initial master
+ 257 files changed, 14138 insertions(+)
+ create mode 100644 Ripple.pde
+ create mode 100644 RippleGenerator.pde
+ create mode 100644 winx64/Ripple.exe
+ create mode 100644 winx64/java/COPYRIGHT
+ create mode 100644 winx64/java/LICENSE
+ create mode 100644 winx64/java/README.txt
+ create mode 100644 winx64/java/THIRDPARTYLICENSEREADME-JAVAFX.txt
+ create mode 100644 winx64/java/THIRDPARTYLICENSEREADME.txt
+ create mode 100644 winx64/java/Welcome.html
+ create mode 100644 winx64/java/bin/JAWTAccessBridge-64.dll
+ create mode 100644 winx64/java/bin/JavaAccessBridge-64.dll
+ create mode 100644 winx64/java/bin/WindowsAccessBridge-64.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-console-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-datetime-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-debug-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-errorhandling-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-file-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-file-l1-2-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-file-l2-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-handle-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-heap-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-interlocked-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-libraryloader-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-localization-l1-2-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-memory-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-namedpipe-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-processenvironment-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-processthreads-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-processthreads-l1-1-1.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-profile-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-rtlsupport-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-string-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-synch-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-synch-l1-2-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-sysinfo-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-timezone-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-core-util-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-conio-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-convert-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-environment-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-filesystem-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-heap-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-locale-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-math-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-multibyte-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-private-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-process-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-runtime-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-stdio-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-string-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-time-l1-1-0.dll
+ create mode 100644 winx64/java/bin/api-ms-win-crt-utility-l1-1-0.dll
+ create mode 100644 winx64/java/bin/awt.dll
+ create mode 100644 winx64/java/bin/bci.dll
+ create mode 100644 winx64/java/bin/concrt140.dll
+ create mode 100644 winx64/java/bin/dcpr.dll
+ create mode 100644 winx64/java/bin/decora_sse.dll
+ create mode 100644 winx64/java/bin/deploy.dll
+ create mode 100644 winx64/java/bin/dt_shmem.dll
+ create mode 100644 winx64/java/bin/dt_socket.dll
+ create mode 100644 winx64/java/bin/dtplugin/deployJava1.dll
+ create mode 100644 winx64/java/bin/dtplugin/npdeployJava1.dll
+ create mode 100644 winx64/java/bin/eula.dll
+ create mode 100644 winx64/java/bin/fontmanager.dll
+ create mode 100644 winx64/java/bin/fxplugins.dll
+ create mode 100644 winx64/java/bin/glass.dll
+ create mode 100644 winx64/java/bin/glib-lite.dll
+ create mode 100644 winx64/java/bin/gstreamer-lite.dll
+ create mode 100644 winx64/java/bin/hprof.dll
+ create mode 100644 winx64/java/bin/instrument.dll
+ create mode 100644 winx64/java/bin/j2pcsc.dll
+ create mode 100644 winx64/java/bin/j2pkcs11.dll
+ create mode 100644 winx64/java/bin/jaas_nt.dll
+ create mode 100644 winx64/java/bin/jabswitch.exe
+ create mode 100644 winx64/java/bin/java-rmi.exe
+ create mode 100644 winx64/java/bin/java.dll
+ create mode 100644 winx64/java/bin/java.exe
+ create mode 100644 winx64/java/bin/java_crw_demo.dll
+ create mode 100644 winx64/java/bin/javacpl.cpl
+ create mode 100644 winx64/java/bin/javacpl.exe
+ create mode 100644 winx64/java/bin/javafx_font.dll
+ create mode 100644 winx64/java/bin/javafx_font_t2k.dll
+ create mode 100644 winx64/java/bin/javafx_iio.dll
+ create mode 100644 winx64/java/bin/javaw.exe
+ create mode 100644 winx64/java/bin/jawt.dll
+ create mode 100644 winx64/java/bin/jdwp.dll
+ create mode 100644 winx64/java/bin/jfr.dll
+ create mode 100644 winx64/java/bin/jfxmedia.dll
+ create mode 100644 winx64/java/bin/jfxwebkit.dll
+ create mode 100644 winx64/java/bin/jjs.exe
+ create mode 100644 winx64/java/bin/jli.dll
+ create mode 100644 winx64/java/bin/jp2iexp.dll
+ create mode 100644 winx64/java/bin/jp2launcher.exe
+ create mode 100644 winx64/java/bin/jp2native.dll
+ create mode 100644 winx64/java/bin/jp2ssv.dll
+ create mode 100644 winx64/java/bin/jpeg.dll
+ create mode 100644 winx64/java/bin/jsdt.dll
+ create mode 100644 winx64/java/bin/jsound.dll
+ create mode 100644 winx64/java/bin/jsoundds.dll
+ create mode 100644 winx64/java/bin/keytool.exe
+ create mode 100644 winx64/java/bin/lcms.dll
+ create mode 100644 winx64/java/bin/management.dll
+ create mode 100644 winx64/java/bin/mlib_image.dll
+ create mode 100644 winx64/java/bin/msvcp140.dll
+ create mode 100644 winx64/java/bin/msvcr100.dll
+ create mode 100644 winx64/java/bin/net.dll
+ create mode 100644 winx64/java/bin/nio.dll
+ create mode 100644 winx64/java/bin/npt.dll
+ create mode 100644 winx64/java/bin/orbd.exe
+ create mode 100644 winx64/java/bin/pack200.exe
+ create mode 100644 winx64/java/bin/plugin2/msvcr100.dll
+ create mode 100644 winx64/java/bin/plugin2/npjp2.dll
+ create mode 100644 winx64/java/bin/policytool.exe
+ create mode 100644 winx64/java/bin/prism_common.dll
+ create mode 100644 winx64/java/bin/prism_d3d.dll
+ create mode 100644 winx64/java/bin/prism_sw.dll
+ create mode 100644 winx64/java/bin/resource.dll
+ create mode 100644 winx64/java/bin/rmid.exe
+ create mode 100644 winx64/java/bin/rmiregistry.exe
+ create mode 100644 winx64/java/bin/server/Xusage.txt
+ create mode 100644 winx64/java/bin/server/jvm.dll
+ create mode 100644 winx64/java/bin/servertool.exe
+ create mode 100644 winx64/java/bin/splashscreen.dll
+ create mode 100644 winx64/java/bin/ssv.dll
+ create mode 100644 winx64/java/bin/ssvagent.exe
+ create mode 100644 winx64/java/bin/sunec.dll
+ create mode 100644 winx64/java/bin/sunmscapi.dll
+ create mode 100644 winx64/java/bin/t2k.dll
+ create mode 100644 winx64/java/bin/tnameserv.exe
+ create mode 100644 winx64/java/bin/ucrtbase.dll
+ create mode 100644 winx64/java/bin/unpack.dll
+ create mode 100644 winx64/java/bin/unpack200.exe
+ create mode 100644 winx64/java/bin/vcruntime140.dll
+ create mode 100644 winx64/java/bin/verify.dll
+ create mode 100644 winx64/java/bin/w2k_lsa_auth.dll
+ create mode 100644 winx64/java/bin/wsdetect.dll
+ create mode 100644 winx64/java/bin/zip.dll
+ create mode 100644 winx64/java/lib/accessibility.properties
+ create mode 100644 winx64/java/lib/amd64/jvm.cfg
+ create mode 100644 winx64/java/lib/calendars.properties
+ create mode 100644 winx64/java/lib/charsets.jar
+ create mode 100644 winx64/java/lib/classlist
+ create mode 100644 winx64/java/lib/cmm/CIEXYZ.pf
+ create mode 100644 winx64/java/lib/cmm/GRAY.pf
+ create mode 100644 winx64/java/lib/cmm/LINEAR_RGB.pf
+ create mode 100644 winx64/java/lib/cmm/sRGB.pf
+ create mode 100644 winx64/java/lib/content-types.properties
+ create mode 100644 winx64/java/lib/currency.data
+ create mode 100644 winx64/java/lib/deploy.jar
+ create mode 100644 winx64/java/lib/deploy/ffjcext.zip
+ create mode 100644 winx64/java/lib/deploy/messages.properties
+ create mode 100644 winx64/java/lib/deploy/messages_de.properties
+ create mode 100644 winx64/java/lib/deploy/messages_es.properties
+ create mode 100644 winx64/java/lib/deploy/messages_fr.properties
+ create mode 100644 winx64/java/lib/deploy/messages_it.properties
+ create mode 100644 winx64/java/lib/deploy/messages_ja.properties
+ create mode 100644 winx64/java/lib/deploy/messages_ko.properties
+ create mode 100644 winx64/java/lib/deploy/messages_pt_BR.properties
+ create mode 100644 winx64/java/lib/deploy/messages_sv.properties
+ create mode 100644 winx64/java/lib/deploy/messages_zh_CN.properties
+ create mode 100644 winx64/java/lib/deploy/messages_zh_HK.properties
+ create mode 100644 winx64/java/lib/deploy/messages_zh_TW.properties
+ create mode 100644 winx64/java/lib/deploy/splash.gif
+ create mode 100644 winx64/java/lib/deploy/splash@2x.gif
+ create mode 100644 winx64/java/lib/deploy/splash_11-lic.gif
+ create mode 100644 winx64/java/lib/deploy/splash_11@2x-lic.gif
+ create mode 100644 winx64/java/lib/ext/access-bridge-64.jar
+ create mode 100644 winx64/java/lib/ext/cldrdata.jar
+ create mode 100644 winx64/java/lib/ext/jaccess.jar
+ create mode 100644 winx64/java/lib/ext/jfxrt.jar
+ create mode 100644 winx64/java/lib/ext/localedata.jar
+ create mode 100644 winx64/java/lib/ext/meta-index
+ create mode 100644 winx64/java/lib/ext/nashorn.jar
+ create mode 100644 winx64/java/lib/ext/sunec.jar
+ create mode 100644 winx64/java/lib/ext/sunjce_provider.jar
+ create mode 100644 winx64/java/lib/ext/sunmscapi.jar
+ create mode 100644 winx64/java/lib/ext/sunpkcs11.jar
+ create mode 100644 winx64/java/lib/ext/zipfs.jar
+ create mode 100644 winx64/java/lib/flavormap.properties
+ create mode 100644 winx64/java/lib/fontconfig.bfc
+ create mode 100644 winx64/java/lib/fontconfig.properties.src
+ create mode 100644 winx64/java/lib/fonts/LucidaBrightDemiBold.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaBrightDemiItalic.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaBrightItalic.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaBrightRegular.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaSansDemiBold.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaSansRegular.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaTypewriterBold.ttf
+ create mode 100644 winx64/java/lib/fonts/LucidaTypewriterRegular.ttf
+ create mode 100644 winx64/java/lib/hijrah-config-umalqura.properties
+ create mode 100644 winx64/java/lib/images/cursors/cursors.properties
+ create mode 100644 winx64/java/lib/images/cursors/invalid32x32.gif
+ create mode 100644 winx64/java/lib/images/cursors/win32_CopyDrop32x32.gif
+ create mode 100644 winx64/java/lib/images/cursors/win32_CopyNoDrop32x32.gif
+ create mode 100644 winx64/java/lib/images/cursors/win32_LinkDrop32x32.gif
+ create mode 100644 winx64/java/lib/images/cursors/win32_LinkNoDrop32x32.gif
+ create mode 100644 winx64/java/lib/images/cursors/win32_MoveDrop32x32.gif
+ create mode 100644 winx64/java/lib/images/cursors/win32_MoveNoDrop32x32.gif
+ create mode 100644 winx64/java/lib/javafx.properties
+ create mode 100644 winx64/java/lib/jce.jar
+ create mode 100644 winx64/java/lib/jfr.jar
+ create mode 100644 winx64/java/lib/jfr/default.jfc
+ create mode 100644 winx64/java/lib/jfr/profile.jfc
+ create mode 100644 winx64/java/lib/jfxswt.jar
+ create mode 100644 winx64/java/lib/jsse.jar
+ create mode 100644 winx64/java/lib/jvm.hprof.txt
+ create mode 100644 winx64/java/lib/logging.properties
+ create mode 100644 winx64/java/lib/management-agent.jar
+ create mode 100644 winx64/java/lib/management/jmxremote.access
+ create mode 100644 winx64/java/lib/management/jmxremote.password.template
+ create mode 100644 winx64/java/lib/management/management.properties
+ create mode 100644 winx64/java/lib/management/snmp.acl.template
+ create mode 100644 winx64/java/lib/meta-index
+ create mode 100644 winx64/java/lib/net.properties
+ create mode 100644 winx64/java/lib/plugin.jar
+ create mode 100644 winx64/java/lib/psfont.properties.ja
+ create mode 100644 winx64/java/lib/psfontj2d.properties
+ create mode 100644 winx64/java/lib/resources.jar
+ create mode 100644 winx64/java/lib/rt.jar
+ create mode 100644 winx64/java/lib/security/blacklist
+ create mode 100644 winx64/java/lib/security/blacklisted.certs
+ create mode 100644 winx64/java/lib/security/cacerts
+ create mode 100644 winx64/java/lib/security/java.policy
+ create mode 100644 winx64/java/lib/security/java.security
+ create mode 100644 winx64/java/lib/security/javaws.policy
+ create mode 100644 winx64/java/lib/security/policy/limited/US_export_policy.jar
+ create mode 100644 winx64/java/lib/security/policy/limited/local_policy.jar
+ create mode 100644 winx64/java/lib/security/policy/unlimited/US_export_policy.jar
+ create mode 100644 winx64/java/lib/security/policy/unlimited/local_policy.jar
+ create mode 100644 winx64/java/lib/security/trusted.libraries
+ create mode 100644 winx64/java/lib/sound.properties
+ create mode 100644 winx64/java/lib/tzdb.dat
+ create mode 100644 winx64/java/lib/tzmappings
+ create mode 100644 winx64/java/release
+ create mode 100644 winx64/lib/Ripple.jar
+ create mode 100644 winx64/lib/core.jar
+ create mode 100644 winx64/lib/gluegen-rt-natives-windows-amd64.jar
+ create mode 100644 winx64/lib/gluegen-rt.jar
+ create mode 100644 winx64/lib/jogl-all-natives-windows-amd64.jar
+ create mode 100644 winx64/lib/jogl-all.jar
+ create mode 100644 winx64/lib/peasy-math.jar
+ create mode 100644 winx64/lib/peasycam.jar
+ create mode 100644 winx64/source/Ripple.java
+ create mode 100644 winx64/source/Ripple.pde
+ create mode 100644 winx64/source/RippleGenerator.pde
+ create mode 100644 winx86/executable/Ripple.exe
+ create mode 100644 winx86/lib/Ripple.jar
+ create mode 100644 winx86/lib/core.jar
+ create mode 100644 winx86/lib/gluegen-rt-natives-windows-i586.jar
+ create mode 100644 winx86/lib/gluegen-rt.jar
+ create mode 100644 winx86/lib/jogl-all-natives-windows-i586.jar
+ create mode 100644 winx86/lib/jogl-all.jar
+ create mode 100644 winx86/lib/peasy-math.jar
+ create mode 100644 winx86/lib/peasycam.jar
+ create mode 100644 winx86/source/Ripple.java
+ create mode 100644 winx86/source/Ripple.pde
+ create mode 100644 winx86/source/RippleGenerator.pde
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push -u winx64 master
+To https://github.com/Dhirodaatto/Ripple.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Dhirodaatto/Ripple.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git fetch winx64
+warning: no common commits
+remote: Enumerating objects: 17, done.
+remote: Counting objects: 100% (17/17), done.
+remote: Compressing objects: 100% (13/13), done.
+remote: Total 17 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (17/17), done.
+From https://github.com/Dhirodaatto/Ripple
+ * [new branch]      master     -> winx64/master
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push -u winx64 master
+To https://github.com/Dhirodaatto/Ripple.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Dhirodaatto/Ripple.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git pull winx64
+You asked to pull from the remote 'winx64', but did not specify
+a branch. Because this is not the default configured remote
+for your current branch, you must specify a branch on the command line.
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git pull winx64 master
+From https://github.com/Dhirodaatto/Ripple
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git add README
+fatal: pathspec 'README' did not match any files
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git add --all
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git commit -m "reinitialized files"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push winx64 master
+To https://github.com/Dhirodaatto/Ripple.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Dhirodaatto/Ripple.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>git push winx64 master --force
+Enumerating objects: 269, done.
+Counting objects: 100% (269/269), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (263/263), done.
+Writing objects: 100% (269/269), 76.68 MiB | 1009.00 KiB/s, done.
+Total 269 (delta 64), reused 0 (delta 0)
+remote: Resolving deltas: 100% (64/64), done.
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: warning: See http://git.io/iEPt8g for more information.
+remote: warning: File winx64/java/bin/jfxwebkit.dll is 59.62 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File winx64/java/lib/rt.jar is 60.91 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+To https://github.com/Dhirodaatto/Ripple.git
+ + ffd80aa...5b17bd1 master -> master (forced update)
+
+C:\Users\dhiro\OneDrive\Documents\Processing\MyApps\Ripple>
